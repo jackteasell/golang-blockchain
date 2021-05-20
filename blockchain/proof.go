@@ -24,7 +24,7 @@ import (
 //Requirements:
 // the Frist few bytes must contain 0s
 
-const Difficulty = 16
+const Difficulty = 12
 
 type ProofOfWork struct {
 	Block *Block
